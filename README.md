@@ -6,7 +6,7 @@
 - `clean_electric_vehicle_dataset.csv` — Preprocessed and cleaned dataset  
 - `Tableau_sourcecode` — Dashboard for data visualization  
 - `SourceCode.ipynb` — Python notebook for Exploratory Data Analysis (EDA) and network analysis
-- `Read Final_Project_Report.pdf` - read report 
+- `Group6_DV_finalprojectreport.pdf` - read report 
 ## Timeframe
 Data collected from **Data year is from 2011 to 2013**
 
