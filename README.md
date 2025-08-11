@@ -2,6 +2,7 @@
 ### A Network Analysis Based on Real-Time Usage and Geographical Data  
  The goal is to optimize the charging station infrastructure to improve user experience and expand the network's reach and efficiency.
 - Demo: https://www.youtube.com/watch?v=QRC4-sDGa2Y
+- View Live Dashboard: https://public.tableau.com/app/profile/raveena.kagne/viz/ChargingStationInfrastructureforEV/Final_Dashboard?publish=yes
 ## Project Files
 - `ElectricVehicleChargingStationUsageJuly2011Dec2020_2797601698338421488.csv` — Raw dataset (uncleaned)  
 - `clean_electric_vehicle_dataset.csv` — Preprocessed and cleaned dataset  
